@@ -1,0 +1,14 @@
+html {
+  background-image: url("istockphoto-1283307885-612x612\ \(2\).jpg");
+  background-size: cover;
+  margin: 25px auto;
+  width: 690px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+body {
+  border-radius: 15px;
+  background-color: aliceblue;
+  padding: 10px 25px;
+  text-align: center;
+}
